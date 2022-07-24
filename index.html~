@@ -103,12 +103,12 @@ strong a:active {
 <body>
 <table width="815" border="0">
   <tr>
-    <td width="284" height="328"><img src="./imgs/me.jpg" width="262" height="324" border="1"></td>
+    <td width="284" height="328"><img src="me.jpg" width="262" height="324" border="1"></td>
     <td width="521"><table width="100%" border="0">
       <tr height="100%">
         <td colspan="2"></td></tr>
       <tr height="100%">
-        <td colspan="2"><img src="./imgs/name.png" width="376" height="32" border="0"></td></tr>
+        <td colspan="2"><img src="Imgs/name.png" width="376" height="32" border="0"></td></tr>
       <tr height="100%">
         <td colspan="2"></td></tr>
       <tr height="100%">
@@ -163,7 +163,7 @@ strong a:active {
 <p class="margin-small">&nbsp;</p>
 <table width="109%" border="0">
   <tr>
-    <td width="193"><img src="./imgs/Bg.jpg" width="241" height="199" border='0' /></td>
+    <td width="193"><img src="Imgs/Bg.jpg" width="241" height="199" border='0' /></td>
     <td width="14"></td>
     <td width="1176"><p class="content"><strong>Robust Background Identification for Dynamic Video Editing</strong></p>
       <p class="content"> Fang-Lue Zhang, Xian Wu, Jue Wang, Hao-Tian Zhang,<a href="http://cg.cs.tsinghua.edu.cn/prof_hu.htm"> Shi-Min Hu*</a></p>
@@ -176,7 +176,7 @@ strong a:active {
 <p class="margin-small">&nbsp;</p>
 <table width="109%" border="0">
   <tr>
-    <td width="193"><img src="./imgs/survey.png" width="241" height="199" border='0' /></td>
+    <td width="193"><img src="survey.png" width="241" height="199" border='0' /></td>
     <td width="14"></td>
     <td width="1176"><p class="content"><strong>A Survey of the State-of-the-art in Patch-based Synthesis</strong></p>
       <p class="content"> Connelly Barnes and Fang-Lue Zhang </p>
@@ -189,7 +189,7 @@ strong a:active {
 <p class="margin-small">&nbsp;</p>
 <table width="109%" border="0">
   <tr>
-    <td width="193"><img src="./imgs/LF.png" width="241" height="199" border='0' /></td>
+    <td width="193"><img src="Imgs/LF.png" width="241" height="199" border='0' /></td>
     <td width="14"></td>
     <td width="1176"><p class="content"><strong>PlenoPatch: Patch-based Plenoptic Image
 Manipulation</strong></p>
@@ -205,7 +205,7 @@ Jue Wang, Eli Shechtman, Zi-Ye Zhou, Jia-Xin Shi,<a href="http://cg.cs.tsinghua.
 <p class="margin-small">&nbsp;</p>
 <table width="109%" border="0">
   <tr>
-    <td width="193"><img src="./imgs/VideoOpt.png" width="241" height="199" border='0' /></td>
+    <td width="193"><img src="Imgs/VideoOpt.png" width="241" height="199" border='0' /></td>
     <td width="14"></td>
     <td width="1176"><p class="content"><strong>Simultaneous Camera Path Optimization and Distraction Removal for Improving Amateur Video</strong></p>
       <p class="content"> Fang-Lue Zhang, 
@@ -221,7 +221,7 @@ Jue Wang, Han Zhao, Ralph R. Martin, <a href="http://cg.cs.tsinghua.edu.cn/prof_
 <p class="margin">&nbsp;</p>
 <table width="109%" border="0">
   <tr>
-    <td width="193"><img src="./imgs/patchtable_icon_hires.jpg" width="241" height="127" border='0' /></td>
+    <td width="193"><img src="Imgs/patchtable_icon_hires.jpg" width="241" height="127" border='0' /></td>
     <td width="14"></td>
     <td width="1175"><p class="content"><strong>PatchTable: Efficient Patch Queries for Large Datasets and Applications</strong></p>
 <p class="content"><a href="http://www.connellybarnes.com/work/">Connelly Barnes </a>, <a href="http://cg.cs.tsinghua.edu.cn/people/~fanglue/"> Fang-Lue Zhang  </a>, 
@@ -240,7 +240,7 @@ Jue Wang, Han Zhao, Ralph R. Martin, <a href="http://cg.cs.tsinghua.edu.cn/prof_
 <p class="margin">&nbsp;</p>
 <table width="109%" border="0">
   <tr>
-    <td width="193"><img src="./imgs/PatchNet.png" width="241" height="157" border='0' /></td>
+    <td width="193"><img src="Imgs/PatchNet.png" width="241" height="157" border='0' /></td>
     <td width="14"></td>
     <td width="1175"><p class="content"><strong>PatchNet: A Patch-based Image Representation for Interactive Library-driven Image Editing</strong></p>
 <p class="content"><a href="http://cg.cs.tsinghua.edu.cn/prof_hu.htm">Shi-Min Hu*</a>, 
@@ -261,7 +261,7 @@ Jue Wang, Han Zhao, Ralph R. Martin, <a href="http://cg.cs.tsinghua.edu.cn/prof_
 <p class="margin-small">&nbsp;</p>
 <table width="109%" border="0">
   <tr>
-    <td width="193"><img src="./imgs/PhotoCompo.png" width="241" height="149" border='0' /></td>
+    <td width="193"><img src="Imgs/PhotoCompo.png" width="241" height="149" border='0' /></td>
     <td width="14"></td>
     <td width="1176"><p class="content"><strong>Aesthetic Image Enhancement by Dependence-Aware      Object Recomposition</strong></p>
       <p class="content"> Fang-Lue Zhang, 
@@ -274,7 +274,7 @@ Miao Wang,<a href="http://cg.cs.tsinghua.edu.cn/prof_hu.htm"> Shi-Min Hu*</a></p
 <p class="margin-small">&nbsp;</p>
 <table width="109%" border="0">
   <tr>
-    <td width="194"><img src="./imgs/ImgAdm.png" width="241" height="129" border='0' /></td>
+    <td width="194"><img src="Imgs/ImgAdm.png" width="241" height="129" border='0' /></td>
     <td width="14"></td>
     <td width="1175"><p class="content"><strong>ImageAdmixture: Putting Together Dissimilar Objects from Groups</strong></p>
       <p class="content">Fang-Lue Zhang, Ming-Ming Cheng, Jiaya Jia, Shi-Min Hu*&nbsp;</p>
@@ -286,7 +286,7 @@ Miao Wang,<a href="http://cg.cs.tsinghua.edu.cn/prof_hu.htm"> Shi-Min Hu*</a></p
 <p class="margin-small">&nbsp;</p>
 <table width="109%" border="0">
   <tr>
-    <td width="193"><img src="./imgs/RepFinder.png" width="241" height="151" border='0' /></td>
+    <td width="193"><img src="Imgs/RepFinder.png" width="241" height="151" border='0' /></td>
     <td width="15"></td>
     <td width="1175"><p class="content"><strong>RepFinder: Finding Approximately Repeated Scene Elements for Image Editing.</strong></p>
 
@@ -300,7 +300,7 @@ Miao Wang,<a href="http://cg.cs.tsinghua.edu.cn/prof_hu.htm"> Shi-Min Hu*</a></p
 <p class="margin-small">&nbsp;</p>
 <table width="109%" border="0">
   <tr>
-    <td width="195"><img src="./imgs/Goldberg.png" width="241" height="154" border='0' /></td>
+    <td width="195"><img src="Imgs/Goldberg.png" width="241" height="154" border='0' /></td>
     <td width="13"></td>
     <td width="1175"><p class="content"><strong>Data-Driven Object Manipulation in Images</strong></p>
       <p class="content">Chen Goldberg, Tao Chen, Fang-Lue Zhang,&nbsp;<a href="http://www.faculty.idc.ac.il/arik">Ariel Shamir</a>,&nbsp;<a href="http://cg.cs.tsinghua.edu.cn/prof_hu.htm">Shi-Min Hu*</a></p>
