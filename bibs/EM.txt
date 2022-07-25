@@ -1,0 +1,10 @@
+@INPROCEEDINGS{9756797,
+  author={Xu, Jun-Peng and Zuo, Chen-Yu and Zhang, Fang-Lue and Wang, Miao},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+  title={Rendering-Aware HDR Environment Map Prediction from a Single Image}, 
+  year={2022},
+  volume={36},
+  number={3},
+  pages={2857-2865}}
+
+

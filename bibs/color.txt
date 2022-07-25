@@ -1,0 +1,6 @@
+@article{shi2022reference,
+  title={Reference-based deep line art video colorization},
+  author={Shi, Min and Zhang, Jia-Qi and Chen, Shu-Yu and Gao, Lin and Lai, Yukun and Zhang, Fang-Lue},
+  journal={IEEE Transactions on Visualization and Computer Graphics},
+  year={2022},
+pages={Online Published}}

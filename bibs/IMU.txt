@@ -1,0 +1,11 @@
+
+@ARTICLE{9802831,
+  author={Rong, Jian-Xiang and Zhang, Lei and Huang, Hua and Zhang, Fang-Lue},
+  journal={IEEE Transactions on Image Processing}, 
+  title={IMU-Assisted Online Video Background Identification}, 
+  year={2022},
+  volume={31},
+  number={},
+  pages={4336-4351},
+  doi={10.1109/TIP.2022.3183442}}
+}
