@@ -1,3 +1,4 @@
+%Fang-Lue Zhang, reference based colorization
 @article{shi2022reference,
   title={Reference-based deep line art video colorization},
   author={Shi, Min and Zhang, Jia-Qi and Chen, Shu-Yu and Gao, Lin and Lai, Yukun and Zhang, Fang-Lue},

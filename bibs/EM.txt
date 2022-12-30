@@ -1,4 +1,5 @@
-@INPROCEEDINGS{9756797,
+%Fang-Lue Zhang, EM estimation AAAI 2022
+@INPROCEEDINGS{Xu2022AAAI,
   author={Xu, Jun-Peng and Zuo, Chen-Yu and Zhang, Fang-Lue and Wang, Miao},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence}, 
   title={Rendering-Aware HDR Environment Map Prediction from a Single Image}, 

@@ -1,5 +1,5 @@
-
-@ARTICLE{9802831,
+%Fang-Lue Zhang, IMU-based background identification
+@ARTICLE{Rong2022TIP,
   author={Rong, Jian-Xiang and Zhang, Lei and Huang, Hua and Zhang, Fang-Lue},
   journal={IEEE Transactions on Image Processing}, 
   title={IMU-Assisted Online Video Background Identification}, 

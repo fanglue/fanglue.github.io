@@ -1,3 +1,4 @@
+%Fang-Lue Zhang, Patch-based method survey
 @article{barnes2017survey,
   title={A survey of the state-of-the-art in patch-based synthesis},
   author={Barnes, Connelly and Zhang, Fang-Lue},
