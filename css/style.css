@@ -105,7 +105,7 @@ textarea {
   color:#030937;
   font-size: 1.85rem;
   font-weight: 500;
-  max-width: 140rem;
+  max-width: 120rem;
   margin: auto;
   line-height: 1.6; }
   @media only screen and (max-width: 37.5em) {
@@ -120,7 +120,7 @@ textarea {
   letter-spacing: 1px; }
 
 .main-container {
-  max-width: 120rem;
+  max-width: 100rem;
   margin: auto;
   width: 92%; }
 
@@ -271,7 +271,7 @@ textarea {
 
 .projects__row {
   display: grid;
-  grid-template-columns: 0.18fr 1fr;
+  grid-template-columns: 0.2fr 1fr;
   grid-gap: 4rem;
   margin-bottom: 2.5rem; }
   @media only screen and (max-width: 56.25em) {
