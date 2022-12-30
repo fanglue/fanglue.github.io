@@ -1,0 +1,10 @@
+@article{barnes2017survey,
+  title={A survey of the state-of-the-art in patch-based synthesis},
+  author={Barnes, Connelly and Zhang, Fang-Lue},
+  journal={Computational Visual Media},
+  volume={3},
+  number={1},
+  pages={3--20},
+  year={2017},
+  publisher={Springer}
+}
