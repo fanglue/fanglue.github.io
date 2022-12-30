@@ -103,7 +103,7 @@ textarea {
   display: block;
   text-align: justify;
   color:#030937;
-  font-size: 2rem;
+  font-size: 1.85rem;
   font-weight: 500;
   max-width: 120rem;
   margin: auto;
@@ -271,9 +271,9 @@ textarea {
 
 .projects__row {
   display: grid;
-  grid-template-columns: 0.22fr 1fr;
-  grid-gap: 5rem;
-  margin-bottom: 3rem; }
+  grid-template-columns: 0.18fr 1fr;
+  grid-gap: 4rem;
+  margin-bottom: 2.5rem; }
   @media only screen and (max-width: 56.25em) {
     .projects__row {
       grid-template-columns: 1fr;
@@ -301,13 +301,13 @@ textarea {
         align-items: center; } }
     .projects__row-content-title {
       font-weight: 600;
-      font-size: 2.1rem;
+      font-size: 1.9rem;
       margin-bottom: 0.4rem; }
       @media only screen and (max-width: 37.5em) {
         .projects__row-content-title {
           font-size: 2.4rem; } }
     .projects__row-content-desc {
-      font-size: 1.95rem;
+      font-size: 1.8rem;
       color:#061434;
       max-width: 100rem;
       line-height: 1.7;
