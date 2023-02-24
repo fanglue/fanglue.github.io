@@ -1,0 +1,7 @@
+@ARTICLE{Xu2023TVCG,
+  author={Xu, Sen-Zhe and Liu, Jia-Hong and Wang, Miao and Zhang, Fang-Lue and Zhang, Song-Hai},
+  journal={IEEE Transactions on Visualization and Computer Graphics}, 
+  title={Multi-User Redirected Walking in Separate Physical Spaces for Online VR Scenarios}, 
+  year={2023},
+}
+
