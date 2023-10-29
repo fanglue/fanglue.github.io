@@ -1,0 +1,7 @@
+@ARTICLE{Hoh2023SIGA,
+  author={How, Weng Khuan and Zhang, Fang-Lue and Dodgson, Neil A.},
+  journal={ACM SIGGRAPH Asia Posters}, 
+  title={Rule-of-Thirds or Centered? A study in preference in photo composition}, 
+  year={2023},
+}
+

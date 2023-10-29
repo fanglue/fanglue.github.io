@@ -1,0 +1,7 @@
+@ARTICLE{Huang2023TVCG,
+  author={Huang, Kun and Zhang, Fang-Lue and Zhao, Junhong and Li, Yiheng and Dodgson, Neil A.},
+  journal={IEEE Transactions on Visualization and Computer Graphics}, 
+  title={360° Stereo Image Composition with Depth Adaption}, 
+  year={2023},
+}
+
