@@ -1,7 +1,0 @@
-@article{MTL,
-  title={BiRD: Using Bidirectional Rotation Gain Differences to Redirect Users during Back-and-forth Head Turns in Walking},
-  author={Xu, Sen-Zhe and Chen, Fiona Xiao Yu and Gong, Ran and Zhang, Fang-Lue and Zhang, Song-Hai},
-  journal={IEEE Transactions on Visualization and Computer Graphics},
-  year={2024},
-  publisher={IEEE}
-}
